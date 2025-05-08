@@ -1,6 +1,12 @@
 {
   "extras": [
-
+    "lazyvim.plugins.extras.ai.copilot",
+    "lazyvim.plugins.extras.ai.copilot-chat",
+    "lazyvim.plugins.extras.editor.fzf",
+    "lazyvim.plugins.extras.editor.neo-tree",
+    "lazyvim.plugins.extras.editor.refactoring",
+    "lazyvim.plugins.extras.editor.telescope",
+    "lazyvim.plugins.extras.test.core"
   ],
   "install_version": 8,
   "news": {
